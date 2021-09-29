@@ -54,4 +54,11 @@ A new drawing I made with immense affection for the NKN project, and with the dr
   <summary> <b> About NFT-16</b></summary>  
 The mascot passing through several nations, I put the 5 nations that have the most NKN nodes to demonstrate the greatness of these nations, and how important they are for this moment, this is a truly historic moment. We are the biggest blockchain in the world, and these 5 nations play a fundamental and important role in this fact.
 </details>
+
+<details>
+  <summary> <b> About NFT-17</b></summary>  
+NKN Symphony!
+</details>
+
+
   
